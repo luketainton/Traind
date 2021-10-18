@@ -133,4 +133,4 @@ pyobjc-framework-Vision==7.3
 pyobjc-framework-WebKit==7.3
 pyttsx3==2.90
 requests==2.25.1
-urllib3==1.26.5
+urllib3==1.26.7
