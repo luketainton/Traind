@@ -1,7 +1,7 @@
 certifi==2021.10.8
 chardet==4.0.0
 idna==3.3
-pyobjc==7.3
+pyobjc==8.1
 pyobjc-core==7.3
 pyobjc-framework-Accessibility==7.3
 pyobjc-framework-Accounts==7.3
