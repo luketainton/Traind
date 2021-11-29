@@ -13,7 +13,7 @@ pyobjc-framework-AppleScriptObjC==8.1
 pyobjc-framework-ApplicationServices==7.3
 pyobjc-framework-AppTrackingTransparency==8.1
 pyobjc-framework-AuthenticationServices==7.3
-pyobjc-framework-AutomaticAssessmentConfiguration==7.3
+pyobjc-framework-AutomaticAssessmentConfiguration==8.1
 pyobjc-framework-Automator==7.3
 pyobjc-framework-AVFoundation==8.1
 pyobjc-framework-AVKit==8.1
