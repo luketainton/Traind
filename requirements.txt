@@ -15,7 +15,7 @@ pyobjc-framework-AppTrackingTransparency==7.3
 pyobjc-framework-AuthenticationServices==7.3
 pyobjc-framework-AutomaticAssessmentConfiguration==7.3
 pyobjc-framework-Automator==7.3
-pyobjc-framework-AVFoundation==7.3
+pyobjc-framework-AVFoundation==8.1
 pyobjc-framework-AVKit==7.3
 pyobjc-framework-BusinessChat==7.3
 pyobjc-framework-CalendarStore==7.3
