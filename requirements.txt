@@ -11,7 +11,7 @@ pyobjc-framework-AdSupport==8.1
 pyobjc-framework-AppleScriptKit==7.3
 pyobjc-framework-AppleScriptObjC==7.3
 pyobjc-framework-ApplicationServices==7.3
-pyobjc-framework-AppTrackingTransparency==7.3
+pyobjc-framework-AppTrackingTransparency==8.1
 pyobjc-framework-AuthenticationServices==7.3
 pyobjc-framework-AutomaticAssessmentConfiguration==7.3
 pyobjc-framework-Automator==7.3
