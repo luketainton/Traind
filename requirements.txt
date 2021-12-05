@@ -5,7 +5,7 @@ pyobjc==8.1
 pyobjc-core==8.1
 pyobjc-framework-Accessibility==8.1
 pyobjc-framework-Accounts==8.1
-pyobjc-framework-AddressBook==7.3
+pyobjc-framework-AddressBook==8.1
 pyobjc-framework-AdServices==8.1
 pyobjc-framework-AdSupport==8.1
 pyobjc-framework-AppleScriptKit==7.3
