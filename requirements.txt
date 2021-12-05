@@ -34,7 +34,7 @@ pyobjc-framework-CoreBluetooth==7.3
 pyobjc-framework-CoreData==7.3
 pyobjc-framework-CoreHaptics==7.3
 pyobjc-framework-CoreLocation==7.3
-pyobjc-framework-CoreMedia==7.3
+pyobjc-framework-CoreMedia==8.1
 pyobjc-framework-CoreMediaIO==7.3
 pyobjc-framework-CoreMIDI==7.3
 pyobjc-framework-CoreML==7.3
