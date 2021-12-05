@@ -21,7 +21,7 @@ pyobjc-framework-BusinessChat==8.1
 pyobjc-framework-CalendarStore==7.3
 pyobjc-framework-CallKit==7.3
 pyobjc-framework-CFNetwork==8.1
-pyobjc-framework-ClassKit==7.3
+pyobjc-framework-ClassKit==8.1
 pyobjc-framework-CloudKit==7.3
 pyobjc-framework-Cocoa==7.3
 pyobjc-framework-Collaboration==7.3
