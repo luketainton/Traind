@@ -37,7 +37,7 @@ pyobjc-framework-CoreLocation==7.3
 pyobjc-framework-CoreMedia==7.3
 pyobjc-framework-CoreMediaIO==7.3
 pyobjc-framework-CoreMIDI==7.3
-pyobjc-framework-CoreML==7.3
+pyobjc-framework-CoreML==8.1
 pyobjc-framework-CoreMotion==7.3
 pyobjc-framework-CoreServices==7.3
 pyobjc-framework-CoreSpotlight==7.3
