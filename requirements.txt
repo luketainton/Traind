@@ -24,7 +24,7 @@ pyobjc-framework-CFNetwork==8.1
 pyobjc-framework-ClassKit==8.1
 pyobjc-framework-CloudKit==7.3
 pyobjc-framework-Cocoa==8.1
-pyobjc-framework-Collaboration==7.3
+pyobjc-framework-Collaboration==8.1
 pyobjc-framework-ColorSync==7.3
 pyobjc-framework-Contacts==7.3
 pyobjc-framework-ContactsUI==7.3
