@@ -27,7 +27,7 @@ pyobjc-framework-Cocoa==8.1
 pyobjc-framework-Collaboration==8.1
 pyobjc-framework-ColorSync==7.3
 pyobjc-framework-Contacts==7.3
-pyobjc-framework-ContactsUI==7.3
+pyobjc-framework-ContactsUI==8.1
 pyobjc-framework-CoreAudio==7.3
 pyobjc-framework-CoreAudioKit==7.3
 pyobjc-framework-CoreBluetooth==7.3
