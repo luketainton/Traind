@@ -42,7 +42,7 @@ pyobjc-framework-CoreMotion==7.3
 pyobjc-framework-CoreServices==7.3
 pyobjc-framework-CoreSpotlight==7.3
 pyobjc-framework-CoreText==7.3
-pyobjc-framework-CoreWLAN==7.3
+pyobjc-framework-CoreWLAN==8.1
 pyobjc-framework-CryptoTokenKit==7.3
 pyobjc-framework-DeviceCheck==7.3
 pyobjc-framework-DictionaryServices==7.3
