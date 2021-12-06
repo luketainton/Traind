@@ -49,7 +49,7 @@ pyobjc-framework-DictionaryServices==7.3
 pyobjc-framework-DiscRecording==7.3
 pyobjc-framework-DiscRecordingUI==7.3
 pyobjc-framework-DiskArbitration==7.3
-pyobjc-framework-DVDPlayback==7.3
+pyobjc-framework-DVDPlayback==8.1
 pyobjc-framework-EventKit==7.3
 pyobjc-framework-ExceptionHandling==7.3
 pyobjc-framework-ExecutionPolicy==7.3
